@@ -1,0 +1,47 @@
+{
+  "cactuses": [
+    {
+      "name": "XƯƠNG RỒNG THANH SƠN",
+      "picture": "C:\\Users\\Admin\\Desktop\\cs\\cs\\neos\\images/sanpham2.png",
+      "price": "100 000 Đ",
+      "id": 1
+    },
+    {
+      "name": "XƯƠNG RỒNG TAI THỎ",
+      "picture": "images/xuongrongtaitho.jpg",
+      "price": "200 000 Đ",
+      "id": 2
+    },
+    {
+      "name": "XƯƠNG RỒNG TUYẾT",
+      "picture": "C:\\Users\\Admin\\Desktop\\cs\\cs\\neos\\images\\xuongrongtuyet.jpg",
+      "price": "80 000 Đ",
+      "id": 3
+    },
+    {
+      "name": "XƯƠNG RỒNG BÁNH SINH NHẬT",
+      "picture": "C:\\Users\\Admin\\Desktop\\cs\\cs\\neos\\images\\xuongrongbanhsn.jpg",
+      "price": "120 000 Đ",
+      "id": 4
+    },
+    {
+      "name": "SEN ĐÁ MIX",
+      "picture": "C:\\Users\\Admin\\Desktop\\cs\\cs\\neos\\images\\sendamix.jpg",
+      "price": "250 000 Đ",
+      "id": 5
+    },
+    {
+      "name": "abc",
+      "picture": "C:\\Users\\Admin\\Desktop\\cs\\cs\\neos\\images\\xuongrongtuyet.JPG",
+      "price": "200 000 ",
+      "id": 6
+    }
+  ],
+  "Admin": [
+    {
+      "id": 1,
+      "username": "tramlamxam",
+      "password": "tramxamlam"
+    }
+  ]
+}
